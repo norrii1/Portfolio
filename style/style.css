@@ -71,7 +71,7 @@ a.navbar-brand .fa-globe:hover {
 }
 
 .splash {
-  background: url("/assets/myRanch-1_auto_x2.png") no-repeat fixed center bottom;
+  background: url("../assets/myRanch-1_auto_x2.png") no-repeat fixed center bottom;
   background-size: cover;
   color: #fff;
 }
