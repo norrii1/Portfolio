@@ -15,4 +15,3 @@
 💻 A way of displaying my projects and a way to contact me.
 ## Tests
 ![gif](assets/portfolioGif.gif)
-## Questions
