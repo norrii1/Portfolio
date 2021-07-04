@@ -1,7 +1,6 @@
 
   # Portfoilio
-  https://norrii1.github.io/Portfolio/
-![badge](https://img.shields.io/badge/license--brightgreen)<br />
+## https://norrii1.github.io/Portfolio/
 ## Description
 🔍 This is my Portfolio. Some information about me including some homework and projects I have worked on.
 ## Table of Contents
