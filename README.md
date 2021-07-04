@@ -4,6 +4,7 @@
 ![badge](https://img.shields.io/badge/license--brightgreen)<br />
 ## Description
 🔍 This is my Portfolio. Some information about me including some homework and projects I have worked on.
+LINK: https://norrii1.github.io/Portfolio/
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
